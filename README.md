@@ -151,7 +151,7 @@ Created additional features:
 *<img width="451" height="190" alt="image" src="https://github.com/user-attachments/assets/50014aec-8428-4853-99c5-d1c196bfc3e7" />*
 
 
-## 🤖 Predictive Modelling
+## Predictive Modelling
 
 ### Model 1: Collision Severity Prediction
 
@@ -209,7 +209,7 @@ Created additional features:
 * Vehicle Counts
 
 
-## 🔍 Key Insights
+## Key Insights
 
 * Road collisions have generally declined over time.
 * Urban areas experience the highest accident volumes.
@@ -221,7 +221,7 @@ Created additional features:
 * Machine learning models can help predict accident severity and casualty outcomes.
   
 
-## 💡 Recommendations
+## Recommendations
 
 ### Road Safety
 
